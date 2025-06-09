@@ -127,7 +127,6 @@ order by total_album_views desc;
 select * from spotify
 where most_played_on = 'Spotify'
 
-----------
 
 select * from
 (select track,
